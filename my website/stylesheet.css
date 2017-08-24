@@ -104,6 +104,9 @@ tr:nth-child(even) {
 img.me2{
 	float: right;
 }
+img.me {
+	float: left
+}
 img {
     display: block;
     margin: 0 auto;

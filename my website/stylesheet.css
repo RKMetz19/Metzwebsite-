@@ -46,12 +46,11 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: #3e8e41;
 }
 body {
     background-color:#4245f4 ;
 }
-	
 h2 {
 	text-align: center;
 	font-size: 250%;
@@ -62,49 +61,17 @@ h1{
    font-size: 400%;
    color: #f4ee42;
 }
-img.ucla1 {
+img {
     display: block;
     margin: 0 auto;
 }
  p {
-   font-size: 350%;
+   font-size: 300%;
    float: right
  }
  a {
 	 color: yellow
  }
- h3 {
-	 color: #42f45f;
-	 font-size: 400%;
-	 text-align: center;
- }
- figcaption {
-	 text-align: center;
-	 color: #42f45f;
- }
- table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
-code {
-	font-size: 400%;
-	color: #5cf442 ;
-	font-family: "Times New Roman", Times, serif;
-}
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
-img.me2{
-	float: right;
-}
-
 </style>
 </head>
 </html>

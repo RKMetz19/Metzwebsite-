@@ -104,7 +104,10 @@ tr:nth-child(even) {
 img.me2{
 	float: right;
 }
-
+img {
+    display: block;
+    margin: 0 auto;
+   }
 </style>
 </head>
 </html>
